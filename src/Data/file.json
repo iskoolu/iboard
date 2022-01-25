@@ -1,0 +1,51 @@
+{
+    
+    "detaildata": {
+        "id":1,"teacherphoto":"https://www.linkpicture.com/q/teacher_3.png",
+        "name":"Heena","followers":"100","ratings":"5","experience":"2 Years",
+        "demovideo":"https://www.youtube.com/embed/snWstCE3C8g",
+        "languageofteaching":"Tamil,English,Hindi",
+        "recordingavailable":"Yes",
+        "certificate":"https://www.linkpicture.com/q/certificate_1.jpg","test":"No",
+        "courses": [
+        
+            {"id":"1","subjectName":"React Native",
+                "subcontent":"Introduction about React Native.React Native Installation and Setup.How to create new app in React Native.React Native Navigation.How to design a screen in React Native. React Redux, HOC and Pure Component Explanation.How to choose a third party library in React Native?What is New in React Native 0.60 and above",
+            "mediumofteach":"Tamil,English","courseDuration":"1 hours","noOfClass":"60",
+            "timeSlot": [
+            
+               
+                {"from":"16","to":"17 pm ","availableCount":"0","totalCount":"20","medium":"English"}
+            ]
+        },
+            {"id":"2","subjectName":"Android","subcontent":"Introduction about Android.",
+            "mediumofteach":"English,Hindi","courseDuration":"1 hours","noOfClass":"20",
+            "timeSlot": [
+            
+                {"from":"16","to":"17 pm","availableCount":"0","totalCount":"20","medium":"English"},
+                {"from":"16","to":"17 pm","availableCount":"10","totalCount":"20","medium":"English"},
+                {"from":"16","to":"17 pm","availableCount":"2","totalCount":"20","medium":"English"},
+                {"from":"16","to":"17 pm","availableCount":"0","totalCount":"20","medium":"English"}
+            
+            ]} ,
+            {"id":"3","subjectName":"Ios","subcontent":"Introduction about Ios .React Native Installation and Setup.",
+            "mediumofteach":"Hindi","courseDuration":"15 hours","noOfClass":"15",
+            "timeSlot": [
+              
+                {"from":"16","to":"17 pm","availableCount":"0","totalCount":"20","medium":"English"},
+                {"from":"16","to":"17 pm","availableCount":"10","totalCount":"20","medium":"English"},
+                {"from":"16","to":"17 pm","availableCount":"0","totalCount":"20","medium":"English"}
+            
+            ]}
+                
+        
+        ]
+
+            }
+}
+        
+    
+    
+
+
+

@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 2,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 3,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 4,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": " It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 5,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "Contrary to popular belief",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 6,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 7,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "The standard chunk of Lorem Ipsum used since the 1500s",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 8,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 9,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 10,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 11,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "Various versions have evolved",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    },
+    {
+        "id": 12,
+        "postId": 1,
+        "postedBy": {
+            "name": "Titus Joyson",
+            "imageUri": "https://picsum.photos/100"
+        },
+        "text": "The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+        "createdAt": "2021-01-31T19:44:50+05:30",
+        "updatedAt": "2021-01-31T19:44:50+05:30",
+        "deletedAt": ""
+    }
+]

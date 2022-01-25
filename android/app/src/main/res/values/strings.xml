@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iskoolu</string>
+
+    <string name="facebook_app_id">1131915797244120</string>
+    <string name="fb_login_protocol_scheme">fb122576943021766</string>
+
+</resources>

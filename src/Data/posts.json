@@ -1,0 +1,233 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "postedBy": {
+                "name": "Titus Joyson",
+                "imageUri": "https://picsum.photos/100"
+            },
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "likesCount": 0,
+            "userLiked": false,
+            "commentsCount": 0,
+            "postImages": [],
+            "createdAt": "2021-01-31T10:44:50+05:30",
+            "updatedAt": "2021-01-31T10:44:50+05:30",
+            "deletedAt": ""
+        },
+        {
+            "id": 2,
+            "postedBy": {
+                "name": "Titus Joyson",
+                "imageUri": "https://picsum.photos/102"
+            },
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "likesCount": 2,
+            "userLiked": true,
+            "commentsCount": 1000,
+            "postImages": [
+                {
+                    "id": 1,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1001",
+                    "likesCount": 10000,
+                    "userLiked": false,
+                    "commentsCount": 0
+                }
+            ],
+            "createdAt": "2021-01-31T10:44:50+05:30",
+            "updatedAt": "2021-01-31T10:44:50+05:30",
+            "deletedAt": ""
+        },
+        {
+            "id": 3,
+            "postedBy": {
+                "name": "Titus Joyson",
+                "imageUri": "https://picsum.photos/100"
+            },
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1060s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "likesCount": 0,
+            "userLiked": false,
+            "commentsCount": 0,
+            "postImages": [
+                {
+                    "id": 1,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1002",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 2,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1003",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 3,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1004",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 4,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1005",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                }
+            ],
+            "createdAt": "2021-01-31T10:44:50+05:30"
+        },
+        {
+            "id": 4,
+            "postedBy": {
+                "name": "Titus Joyson",
+                "imageUri": "https://picsum.photos/100"
+            },
+            "text": "",
+            "likesCount": 0,
+            "userLiked": false,
+            "commentsCount": 0,
+            "postImages": [
+                {
+                    "id": 1,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1006",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 2,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1007",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 3,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1008",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 4,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1009",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 1,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1010",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 2,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1011",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 3,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1012",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                },
+                {
+                    "id": 4,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1013",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                }
+            ],
+            "createdAt": "2021-01-31T10:44:50+05:30"
+        },
+        {
+            "id": 5,
+            "postedBy": {
+                "name": "Titus Joyson",
+                "imageUri": "https://picsum.photos/103"
+            },
+            "text": "",
+            "likesCount": 0,
+            "userLiked": false,
+            "commentsCount": 0,
+            "postImages": [
+                {
+                    "id": 1,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1014",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                }
+            ],
+            "createdAt": "2021-01-31T10:44:50+05:30"
+        },
+        {
+            "id": 6,
+            "postedBy": {
+                "name": "Titus Joyson",
+                "imageUri": "https://picsum.photos/104"
+            },
+            "text": "",
+            "likesCount": 0,
+            "userLiked": false,
+            "commentsCount": 0,
+            "postImages": [
+                {
+                    "id": 1,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1015",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                }
+            ],
+            "createdAt": "2021-01-31T10:44:50+05:30"
+        },
+        {
+            "id": 7,
+            "postedBy": {
+                "name": "Titus Joyson",
+                "imageUri": "https://picsum.photos/105"
+            },
+            "text": "",
+            "likesCount": 0,
+            "userLiked": false,
+            "commentsCount": 0,
+            "postImages": [
+                {
+                    "id": 1,
+                    "thumpnailUri": "https://picsum.photos/900",
+                    "imageUri": "https://picsum.photos/1016",
+                    "likesCount": 0,
+                    "userLiked": false,
+                    "commentsCount": 0
+                }
+            ],
+            "createdAt": "2021-01-31T10:44:50+05:30"
+        }
+    ] 
+}

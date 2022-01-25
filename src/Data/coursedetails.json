@@ -1,0 +1,104 @@
+{
+    "courseDetails": {
+        "user": 7,
+        "courses": [{"subjectName": "Java",
+            "content": {
+              "title": "Core Java",
+              "subTitle": "Basics and Introductions",
+              "tableOfContents": "",
+              "description": "Core Java, Exception Handling and Collections"
+            },
+            "courseDuration": "1",
+            "noOfClass": "10",
+            "ratePerSession": "100",
+            "ratePerCourse": "1000",
+            "noOfParticipant": "20",
+            "demoUrl": "http://youtube/wEyrSj/",
+            "fromDate": "20-09-2020",
+            "toDate": "20-10-2020",
+            "timeSlot": [{
+                "from": "16:00",
+                "to": "17:00",
+                "availableCount": 0,
+                "totalCount": "20",
+                "medium": "English"
+              },
+              {
+                "from": "18:00",
+                "to": "19:00",
+                "availableCount": 5,
+                "totalCount": "20",
+                "medium": "Tamil"
+              },
+              {
+                "from": "21:00",
+                "to": "22:00",
+                "availableCount": "20",
+                "totalCount": "20",
+                "medium": "English"
+              }
+            ],
+            "testMode":true,
+            "recorded":false,
+            "tution": false,
+            "testAvail": true,
+            "assignAvail": true
+          },
+          {"subjectName": "React Native",
+            "content": {
+              "title": "React js",
+              "subTitle": "Basics and Introductions",
+              "tableOfContents": "",
+              "description": "Core Java, Exception Handling and Collections"
+            },
+            "courseDuration": "1",
+            "noOfClass": "10",
+            "ratePerSession": "100",
+            "ratePerCourse": "1000",
+            "noOfParticipant": "20",
+            "demoUrl": "www.test.com/test",
+            "fromDate": "20-09-2020",
+            "toDate": "20-10-2020",
+            "timeSlot": [{
+                "from": "16:00",
+                "to": "17:00",
+                "availableCount": "0",
+                "totalCount": "20",
+                "medium": "English"
+              },
+              {
+                "from": "18:00",
+                "to": "19:00",
+                "availableCount": "5",
+                "totalCount": "20",
+                "medium": "English"
+              },
+              {
+                "from": "21:00",
+                "to": "22:00",
+                "availableCount": "20",
+                "totalCount": "20",
+                "medium": "English"
+              }
+            ],
+            "testMode":true,
+            "recorded":false,
+            "tution": false,
+            "testAvail": true,
+            "assignAvail": true
+          }
+         
+        ],
+        "imageUrl": "//img/test.jpg",
+        "demoUrl": "www.test.com/test",
+        "languageKnown": "Tamil, English, Hindi",
+        "tutExp": 15,
+        "downloadAllow": false
+            }
+}
+        
+    
+    
+
+
+

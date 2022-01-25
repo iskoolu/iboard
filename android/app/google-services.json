@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647278679470",
+    "firebase_url": "https://iskoolu-fa3f2-default-rtdb.firebaseio.com",
+    "project_id": "iskoolu-fa3f2",
+    "storage_bucket": "iskoolu-fa3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647278679470:android:843f123be55fb5a316643f",
+        "android_client_info": {
+          "package_name": "com.app.iskoolu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647278679470-4recob58le75v3ilenc9vgp11i7pukks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iskoolu",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "647278679470-cpq2kp74peu388ppmv7sap37j89q3tna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnMbr5W3H-PLKOBmXbqITW7og7uPvS3RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647278679470-cpq2kp74peu388ppmv7sap37j89q3tna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
